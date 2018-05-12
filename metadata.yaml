@@ -1,4 +1,8 @@
 _repo: L-isola-dei-baci-Romanzo-erotico-sociale_48943
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48943-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Corra, Bruno
@@ -14,6 +18,8 @@ creator:
     - http://it.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
     - http://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48943#L-isola-dei-baci-Romanzo-erotico-sociale
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2015-05-12'
 gutenberg_type: Text
